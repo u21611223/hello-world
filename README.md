@@ -9,6 +9,6 @@
 - [ ] prerootedでLollipopにする
 - [ ] IMEI Changerなどの利用でOTAを利用可能にする 
 
-@mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+@mentions, #refs, [links](), http://wwww.konprto.blog.jp , and <del>tags</del> supported
 
-#refs http://wwww.konprto.blog.jp 
+#refs 
