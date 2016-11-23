@@ -1,9 +1,10 @@
 # hello-world
-#My name is Naok!.
-
+##This Tips Updete MM
 * Todo
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] XPERIAをROM焼きをする（KITKAT）
+- [x] 海外ROMを焼きこむ
+- [x] ROOT化をする(ADB,擬似情報サービスの有効化,apkのインストールを有効化する)
+- [x] カスタムrecoveryをインストール
+- [ ] prerootedでLollipopにする
+- [ ] IMEI Changerなどの利用でOTAを利用可能にする 
