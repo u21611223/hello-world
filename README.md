@@ -8,3 +8,6 @@
 - [x] カスタムrecoveryをインストール
 - [ ] prerootedでLollipopにする
 - [ ] IMEI Changerなどの利用でOTAを利用可能にする 
+
+
+#refs http://wwww.konprto.blog.jp
